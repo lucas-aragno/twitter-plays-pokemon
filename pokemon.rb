@@ -3,9 +3,6 @@ require 'dotenv/load'
 require 'twitter'
 require_relative 'lib/map_message_to_key'
 
-java_import 'javax.swing.JFrame'
-java_import 'javax.swing.JPanel'
-java_import 'java.awt.Dimension'
 java_import 'java.awt.Robot'
 
 robot = Robot.new
