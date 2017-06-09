@@ -1,6 +1,6 @@
 # Twitter Plays Pokemon
 
-Little implementation similar to twitch plays pokemon implemented using JRuby to use Robot.
+Little implementation similar to twitch plays pokemon implemented using implementations to implement implementing implementitties
 
 <p align="center">
   <img src="https://github.com/lucas-aragno/twitter-plays-pokemon/blob/master/docs/ezgif-1-14730d4a40.gif">
