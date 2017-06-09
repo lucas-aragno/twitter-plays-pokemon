@@ -2,7 +2,7 @@
 
 Little implementation similar to twitch plays pokemon implemented using JRuby to use Robot.
 
-![gif]()
+![gif](https://github.com/lucas-aragno/twitter-plays-pokemon/blob/master/docs/ezgif-1-14730d4a40.gif)
 
 ## How to install everything
 
